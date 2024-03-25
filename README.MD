@@ -15,6 +15,8 @@ O projeto apresentado visa fiscalizar o armazenamento de grandes quantidades de 
 - 1 LDR
 - 1 Buzzer
 
+## Código do Projeto:
+
 ~~~
 // Nessa versão as luzes acedem em  ordem crescente
 // Definindo os pinos onde estão conectados os componentes
